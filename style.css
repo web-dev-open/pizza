@@ -40,6 +40,7 @@ h1 {
   font-family: 'Fredericka the Great', cursive;
   font-size: 64px;
   color: #8b1b00;
+  transition: 1s;
 }
  
 p, li {
@@ -47,10 +48,13 @@ p, li {
   font-size: 22px;
   color: #51473b;
 }
-
-
-
-
+h1:hover{
+  transform: translateX(20px);
+}
+li:hover{
+  color:#8b1b00;
+  font-size: 25px;
+}
 /* ---- Advanced ---- */
 /* This tag is a bit advanced for this lesson,  
    but is needed to wrap the pageContainer 
