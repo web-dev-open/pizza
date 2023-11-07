@@ -48,7 +48,9 @@ p, li {
   color: #51473b;
 }
 
-
+.textContainer p {
+  font-weight: bold;
+}
 
 
 /* ---- Advanced ---- */
