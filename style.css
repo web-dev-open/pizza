@@ -10,14 +10,14 @@
 @import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great|Lato);
 
 body {
-  background-color: #5f5345;
+  background-color: #efbbe0;
 }
  
 .pageContainer {
-  width: 940px;
+  width: 960px;
   margin: 20px auto 0 auto;
   padding: 20px;
-  background-color: #fff;
+  background-color: rgb(209, 167, 242);
 }
  
 .imageContainer {
