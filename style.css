@@ -10,10 +10,13 @@
 @import url(https://fonts.googleapis.com/css?family=Fredericka+the+Great|Lato);
 
 body {
-  background-color: #5f5345;
+  background-color: burlywood;
+  padding: 50px;
+  
 }
  
 .pageContainer {
+  border-radius: 20px;
   width: 940px;
   margin: 20px auto 0 auto;
   padding: 20px;
